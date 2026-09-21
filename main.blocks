@@ -10,4 +10,16 @@
         # . . . # 
         . # . # . 
         . . # . .
-        `</field></block></next></block></statement></block></xml>
+        `</field><next><block type="device_show_leds" id="F94d^|1#UJ}_cq_C(rnV"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="8mqc#P!-5!mXKEnn2:P2"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></statement></block></xml>
